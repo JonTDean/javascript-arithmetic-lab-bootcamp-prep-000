@@ -32,7 +32,7 @@ function makeInt(n){
 }
 
 function preserveDecimal(n){
-  z = 2.222
+  var z = 2.222
   return parseInt(z, 'sldkjflksjf')
   
 }
