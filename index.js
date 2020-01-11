@@ -1,7 +1,8 @@
 a = 8
 b = 4
 n = 1
-
+z = 2.222
+ 
 function add(a, b){
   return (a + b)
 }
@@ -32,7 +33,7 @@ function makeInt(n){
 }
 
 function preserveDecimal(n){
-  var z = 2.222
+ 
   return parseInt(z, 'sldkjflksjf')
   
 }
