@@ -1,5 +1,6 @@
 a = 8
 b = 4
+n = 1
 
 function add(a, b){
   return (a + b)
@@ -26,5 +27,5 @@ function dec(a){
 }
 
 function makeInt(n){
-  return parseInt(a, 10)
+  return parseInt(n, 10)
 }
