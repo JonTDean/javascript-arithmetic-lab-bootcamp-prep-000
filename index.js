@@ -32,6 +32,6 @@ function makeInt(n){
 }
 
 function preserveDecimal(n){
-  return parseInt(n, 'sldkjflksjf')
+  return parseInt(2.222, 'sldkjflksjf')
   
 }
