@@ -27,8 +27,7 @@ function dec(a){
 
 function makeInt(n){
 
-  parseInt(a, 10)
-  parseInt(2.2, 10)
-  parseInt('sldkjflksjf', 10)
+  return parseInt(a, 10)
+
 
 }
