@@ -17,14 +17,12 @@ function divide(a, b){
   return (a / b)
 }
 
-function inc(n){
- var n = 287 
- return n += n
+function inc(a){
+ return a++
 }
 
-function dec(n){
-  var n = 229
-  return n += n
+function dec(a){
+  return a--
 }
 
 function makeInt(n){
