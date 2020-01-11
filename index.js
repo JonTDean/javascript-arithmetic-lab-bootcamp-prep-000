@@ -18,7 +18,7 @@ function divide(a, b){
 }
 
 function inc(a){
- return a += 2
+ return a += 1
 }
 
 function dec(a){
