@@ -1,6 +1,6 @@
 a = 8
 b = 4
-n = 1
+
 
 function add(a, b){
   return (a + b)
@@ -27,11 +27,12 @@ function dec(a){
 }
 
 function makeInt(n){
+  var n = 1
   return parseInt(n, 10)
 }
 
 function preserveDecimal(n){
-  var n = 2.2;
-  
+  var n = 2.2
+  return parseInt(n, )
   
 }
